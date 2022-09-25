@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Printf("hello branch 1")
+	fmt.Printf("hello branch main")
 }
